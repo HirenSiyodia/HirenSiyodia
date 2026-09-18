@@ -7,7 +7,7 @@ A passionate Frontend Developer focused on building modern, responsive, and user
 ## ⚡ I'm skilled at -
 
 ### 🚀 Technologies
-HTML, CSS, JavaScript, TypeScript, React.js, Next.js
+HTML, CSS, JavaScript, TypeScript, React.js, Next.js, PHP, Wordpress CMS
 
 ### 🎨 Frameworks & Libraries
 Tailwind CSS, Bootstrap, Redux Toolkit, SCSS, jQuery

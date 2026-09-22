@@ -1,13 +1,13 @@
 # Hey there, I'm Hiren 👋
 
-A passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications. I enjoy creating clean UI designs, solving real-world problems through code, and continuously learning new technologies. Dedicated to crafting smooth digital experiences with clean, scalable, and maintainable code.
+Frontend Engineer with extensive experience in developing high-performance web applications. Successfully increased code usability and application stability through clean coding practices. Proven ability to enhance UI interactivity and user experience. Eager to leverage expertise in frontend development to create engaging digital experiences. 
 
 ---
 
 ## ⚡ I'm skilled at -
 
 ### 🚀 Technologies
-HTML, CSS, JavaScript, TypeScript, React.js, Next.js, PHP, Wordpress CMS
+HTML, CSS, JavaScript, TypeScript, React.js, Next.js, PHP, Wordpress, CMS
 
 ### 🎨 Frameworks & Libraries
 Tailwind CSS, Bootstrap, Redux Toolkit, SCSS, jQuery
